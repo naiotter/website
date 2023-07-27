@@ -1,0 +1,52 @@
+ <!DOCTYPE html>
+<html lang="pt-br">
+<link rel="stylesheet" href="styles.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <title>NAIOTTER</title>
+  </head>
+<body>
+<main id="main-doc">
+<h1 id="main-title">Naiara Ramalho</h1>
+<p class="description">Ut interdum vulputate neque, quis molestie enim congue semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium enim id consequat maximus. Duis a nisi molestie, posuere enim ut, efficitur nulla. Cras libero dui, tristique sit amet pharetra varius, ornare ut nibh. Nam tempor justo a ipsum sodales pretium. Nulla sed ligula a ipsum euismod efficitur ut id elit. Donec sit amet scelerisque diam. Maecenas eu sodales erat, eget ornare mauris. In consectetur enim elementum sem mattis, et tincidunt metus aliquet. Sed hendrerit luctus urna, eu fringilla tortor sagittis vitae. Proin interdum nec tellus eget posuere. Suspendisse condimentum eu libero facilisis sodales. Sed ut sem ipsum. Etiam eleifend elit id sem hendrerit, tincidunt elementum massa porta.</p>
+        
+<p>Aenean vel turpis a lorem feugiat ultrices nec in justo. Fusce vitae dui nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra, massa sed vestibulum sodales, tortor urna gravida libero, et scelerisque justo augue vestibulum lacus. Praesent non fringilla libero, vel bibendum libero. Donec egestas feugiat nisl id varius. Proin ultrices metus ac molestie ultricies. Donec tincidunt odio at pulvinar scelerisque. Mauris dapibus tellus at dapibus imperdiet. Integer ornare ex eget felis vulputate congue. Donec malesuada et ex id blandit. Nam semper maximus ipsum quis facilisis. Donec tellus enim, facilisis nec tortor in, dignissim facilisis dui.</p>
+          
+<p>Fusce in hendrerit sem. Morbi vehicula sit amet leo sed posuere. Proin nec est tempus, venenatis arcu sed, aliquam felis. Ut lobortis turpis eget nisi tempus, sit amet tincidunt lectus tincidunt. Etiam ultrices ac ligula in feugiat. Nulla nibh leo, ullamcorper vitae blandit maximus, congue ut tortor. Curabitur tellus lacus, commodo non magna eleifend, semper vehicula arcu. Aliquam vel metus mi. Nam eget erat a ipsum dictum porttitor at eu orci.
+</p>
+        <nav id="navbar">
+    <a class="nav-link" href="#about">ME CONHEÇA</a>
+    <a class="nav-link" href="#projects">PROJETOS</a>
+    <a class="nav-link" href="#contact">CONTATO</a>
+        </nav>
+        <section class="main-section" id="about">
+          <header><h2>ME CONHEÇA</h2></header>
+        <p class="description">Ut interdum vulputate neque, quis molestie enim congue semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium enim id consequat maximus. Duis a nisi molestie, posuere enim ut, efficitur nulla. Cras libero dui, tristique sit amet pharetra varius, ornare ut nibh. Nam tempor justo a ipsum sodales pretium. Nulla sed ligula a ipsum euismod efficitur ut id elit. Donec sit amet scelerisque diam. Maecenas eu sodales erat, eget ornare mauris. In consectetur enim elementum sem mattis, et tincidunt metus aliquet. Sed hendrerit luctus urna, eu fringilla tortor sagittis vitae. Proin interdum nec tellus eget posuere. Suspendisse condimentum eu libero facilisis sodales. Sed ut sem ipsum. Etiam eleifend elit id sem hendrerit, tincidunt elementum massa porta.</p>
+        
+<p>Aenean vel turpis a lorem feugiat ultrices nec in justo. Fusce vitae dui nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra, massa sed vestibulum sodales, tortor urna gravida libero, et scelerisque justo augue vestibulum lacus. Praesent non fringilla libero, vel bibendum libero. Donec egestas feugiat nisl id varius. Proin ultrices metus ac molestie ultricies. Donec tincidunt odio at pulvinar scelerisque. Mauris dapibus tellus at dapibus imperdiet. Integer ornare ex eget felis vulputate congue. Donec malesuada et ex id blandit. Nam semper maximus ipsum quis facilisis. Donec tellus enim, facilisis nec tortor in, dignissim facilisis dui.</p>
+          
+<p>Fusce in hendrerit sem. Morbi vehicula sit amet leo sed posuere. Proin nec est tempus, venenatis arcu sed, aliquam felis. Ut lobortis turpis eget nisi tempus, sit amet tincidunt lectus tincidunt. Etiam ultrices ac ligula in feugiat. Nulla nibh leo, ullamcorper vitae blandit maximus, congue ut tortor. Curabitur tellus lacus, commodo non magna eleifend, semper vehicula arcu. Aliquam vel metus mi. Nam eget erat a ipsum dictum porttitor at eu orci.
+</p>
+        </section>
+        <section class="main-section" id="projects">
+          <header><h2>PROJETOS</h2></header>
+<p class="description">Ut interdum vulputate neque, quis molestie enim congue semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium enim id consequat maximus. Duis a nisi molestie, posuere enim ut, efficitur nulla. Cras libero dui, tristique sit amet pharetra varius, ornare ut nibh. Nam tempor justo a ipsum sodales pretium. Nulla sed ligula a ipsum euismod efficitur ut id elit. Donec sit amet scelerisque diam. Maecenas eu sodales erat, eget ornare mauris. In consectetur enim elementum sem mattis, et tincidunt metus aliquet. Sed hendrerit luctus urna, eu fringilla tortor sagittis vitae. Proin interdum nec tellus eget posuere. Suspendisse condimentum eu libero facilisis sodales. Sed ut sem ipsum. Etiam eleifend elit id sem hendrerit, tincidunt elementum massa porta.</p>
+        
+<p>Aenean vel turpis a lorem feugiat ultrices nec in justo. Fusce vitae dui nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra, massa sed vestibulum sodales, tortor urna gravida libero, et scelerisque justo augue vestibulum lacus. Praesent non fringilla libero, vel bibendum libero. Donec egestas feugiat nisl id varius. Proin ultrices metus ac molestie ultricies. Donec tincidunt odio at pulvinar scelerisque. Mauris dapibus tellus at dapibus imperdiet. Integer ornare ex eget felis vulputate congue. Donec malesuada et ex id blandit. Nam semper maximus ipsum quis facilisis. Donec tellus enim, facilisis nec tortor in, dignissim facilisis dui.</p>
+          
+<p>Fusce in hendrerit sem. Morbi vehicula sit amet leo sed posuere. Proin nec est tempus, venenatis arcu sed, aliquam felis. Ut lobortis turpis eget nisi tempus, sit amet tincidunt lectus tincidunt. Etiam ultrices ac ligula in feugiat. Nulla nibh leo, ullamcorper vitae blandit maximus, congue ut tortor. Curabitur tellus lacus, commodo non magna eleifend, semper vehicula arcu. Aliquam vel metus mi. Nam eget erat a ipsum dictum porttitor at eu orci.
+</p>
+        </section>
+        <section class="main-section" id="contact">
+          <header><h2>CONTATO</h2></header>
+<p class="description">Ut interdum vulputate neque, quis molestie enim congue semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium enim id consequat maximus. Duis a nisi molestie, posuere enim ut, efficitur nulla. Cras libero dui, tristique sit amet pharetra varius, ornare ut nibh. Nam tempor justo a ipsum sodales pretium. Nulla sed ligula a ipsum euismod efficitur ut id elit. Donec sit amet scelerisque diam. Maecenas eu sodales erat, eget ornare mauris. In consectetur enim elementum sem mattis, et tincidunt metus aliquet. Sed hendrerit luctus urna, eu fringilla tortor sagittis vitae. Proin interdum nec tellus eget posuere. Suspendisse condimentum eu libero facilisis sodales. Sed ut sem ipsum. Etiam eleifend elit id sem hendrerit, tincidunt elementum massa porta.</p>
+        
+<p>Aenean vel turpis a lorem feugiat ultrices nec in justo. Fusce vitae dui nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra, massa sed vestibulum sodales, tortor urna gravida libero, et scelerisque justo augue vestibulum lacus. Praesent non fringilla libero, vel bibendum libero. Donec egestas feugiat nisl id varius. Proin ultrices metus ac molestie ultricies. Donec tincidunt odio at pulvinar scelerisque. Mauris dapibus tellus at dapibus imperdiet. Integer ornare ex eget felis vulputate congue. Donec malesuada et ex id blandit. Nam semper maximus ipsum quis facilisis. Donec tellus enim, facilisis nec tortor in, dignissim facilisis dui.</p>
+          
+<p>Fusce in hendrerit sem. Morbi vehicula sit amet leo sed posuere. Proin nec est tempus, venenatis arcu sed, aliquam felis. Ut lobortis turpis eget nisi tempus, sit amet tincidunt lectus tincidunt. Etiam ultrices ac ligula in feugiat. Nulla nibh leo, ullamcorper vitae blandit maximus, congue ut tortor. Curabitur tellus lacus, commodo non magna eleifend, semper vehicula arcu. Aliquam vel metus mi. Nam eget erat a ipsum dictum porttitor at eu orci.
+</p>
+        </section>
+  </main>
+</body>
+</html>
