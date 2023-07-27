@@ -7,6 +7,11 @@
     <title>NAIOTTER</title>
   </head>
 <body>
+<nav id="navbar">
+    <a class="nav-link" href="#about">ME CONHEÇA</a>
+    <a class="nav-link" href="#projects">PROJETOS</a>
+    <a class="nav-link" href="#contact">CONTATO</a>
+</nav>
 <main id="main-doc">
 <h1 id="main-title">Naiara Ramalho</h1>
 <p class="description">Ut interdum vulputate neque, quis molestie enim congue semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium enim id consequat maximus. Duis a nisi molestie, posuere enim ut, efficitur nulla. Cras libero dui, tristique sit amet pharetra varius, ornare ut nibh. Nam tempor justo a ipsum sodales pretium. Nulla sed ligula a ipsum euismod efficitur ut id elit. Donec sit amet scelerisque diam. Maecenas eu sodales erat, eget ornare mauris. In consectetur enim elementum sem mattis, et tincidunt metus aliquet. Sed hendrerit luctus urna, eu fringilla tortor sagittis vitae. Proin interdum nec tellus eget posuere. Suspendisse condimentum eu libero facilisis sodales. Sed ut sem ipsum. Etiam eleifend elit id sem hendrerit, tincidunt elementum massa porta.</p>
@@ -15,11 +20,6 @@
           
 <p>Fusce in hendrerit sem. Morbi vehicula sit amet leo sed posuere. Proin nec est tempus, venenatis arcu sed, aliquam felis. Ut lobortis turpis eget nisi tempus, sit amet tincidunt lectus tincidunt. Etiam ultrices ac ligula in feugiat. Nulla nibh leo, ullamcorper vitae blandit maximus, congue ut tortor. Curabitur tellus lacus, commodo non magna eleifend, semper vehicula arcu. Aliquam vel metus mi. Nam eget erat a ipsum dictum porttitor at eu orci.
 </p>
-        <nav id="navbar">
-    <a class="nav-link" href="#about">ME CONHEÇA</a>
-    <a class="nav-link" href="#projects">PROJETOS</a>
-    <a class="nav-link" href="#contact">CONTATO</a>
-        </nav>
         <section class="main-section" id="about">
           <header><h2>ME CONHEÇA</h2></header>
         <p class="description">Ut interdum vulputate neque, quis molestie enim congue semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium enim id consequat maximus. Duis a nisi molestie, posuere enim ut, efficitur nulla. Cras libero dui, tristique sit amet pharetra varius, ornare ut nibh. Nam tempor justo a ipsum sodales pretium. Nulla sed ligula a ipsum euismod efficitur ut id elit. Donec sit amet scelerisque diam. Maecenas eu sodales erat, eget ornare mauris. In consectetur enim elementum sem mattis, et tincidunt metus aliquet. Sed hendrerit luctus urna, eu fringilla tortor sagittis vitae. Proin interdum nec tellus eget posuere. Suspendisse condimentum eu libero facilisis sodales. Sed ut sem ipsum. Etiam eleifend elit id sem hendrerit, tincidunt elementum massa porta.</p>
